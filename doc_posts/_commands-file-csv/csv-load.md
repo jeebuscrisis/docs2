@@ -5,7 +5,7 @@ redirect_from:
   - commands/202
 ---
 
-Loads a previously created CSV file. 
+Loads a previously created CSV file into the buffer space within SAMMI. Changes will not be saved unless you use "CSV: Save" command. Using "CSV: Unload" will remove the CSV file from the buffer space within SAMMI but will not delete the file.
 
 | Box Name | Type | Description | 
 |-------|--------|--------
